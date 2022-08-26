@@ -3,13 +3,13 @@ env: # Environment variables to pass to all tasks
     CIRRUS_WORKING_DIR: "/tmp/ci" # Where to clone the aosp-builder repo
 
 # store our secrets here
-    github_token: "ENCRYPTED[!82ee7e07446c86fe97dda507543443a525fec83e693679c8f84d740764987310d74262013f45a1e5a56cc54e334e8f7c!]"
-    bot_api: "ENCRYPTED[!10482e25ca82cf0efa74e4c474a9e5cb82c1b2e5545657dd1917cba34aa08ce880b37bef99a47d0a49c4bb48523144b9!]"
-    chat_id: "ENCRYPTED[!c519abe30864df229179faa4e1eeaa0fde992d896ed620d45cb1f2ca25f0ee3b9373d08fb64a737c8759ae592ef9351c!]"
+    github_token: "ENCRYPTED[!5d1f0a4d6699af196fc784b90da26ad3237e3fb5de4cade2925550cc38166a33dcef3bd3f07db035740013eb1afdaebd!]"
+    bot_api: "ENCRYPTED[!8b9fba45b56a18d2b82d97bf04aac8fec8967ec90287bc8481447af2e943991ee87ae5f9274f806197b86c51ea3ab630!]"
+    chat_id: "ENCRYPTED[!8e725c1a707a4497cc3af3eaf1c62859d7c3f52cd0a6162bd0283016806ad4fd597292c0cb271d2cbaa1796e11802236!]"
     git_cookies: 0
 
 # store information about git here
-    gmail: xyz@gmail.com
+    gmail: developer@krutosx.tk
 
 # ××× Do not edit or touch anything below this ××× #
     user_version: 2 # lets start from 1
